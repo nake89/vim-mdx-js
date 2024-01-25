@@ -4,4 +4,4 @@
 " Maintainer: Brent Jackson <jxnblk@gmail.com>
 "
 
-autocmd BufNewFile,BufRead *.mdx set filetype=markdown.mdx
+autocmd BufNewFile,BufRead *.mdx set filetype=mdx
